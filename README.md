@@ -2,8 +2,7 @@
 
 <h2>Data Analysis Projects:</h2>
 
-- <b></b>
-  - 
-- <b></b>
-  - 
+- <b>Analyzing Nutritional Value of Starbucks Drinks</b>
+  - In Progress
+
 
